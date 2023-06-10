@@ -1,4 +1,3 @@
-# 86808301
 """This code calculates points in hands agility game."""
 from typing import Tuple
 
