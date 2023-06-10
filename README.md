@@ -22,7 +22,7 @@ For each segment, print the distance to the nearest zero. Output the numbers on 
 ##### Clone repository:
 
 ```
-clone git@github.com:smart2004/Algorythms-Basics-.git
+git clone git@github.com:smart2004/Algorythms-Basics-.git
 ```
 
 ##### Switch to the folder:
@@ -31,8 +31,10 @@ clone git@github.com:smart2004/Algorythms-Basics-.git
 cd algorythms-basics-
 ```
 
-##### Launch server:
+##### Launch python task:
 
 ```
 python buildings.py
 ```
+##### NOTE: better use IDE and start task @ the place
+  
