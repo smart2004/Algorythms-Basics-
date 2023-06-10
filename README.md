@@ -1,5 +1,6 @@
 # algorythms-Basics- by smart200481 <Mikhail Sutormin>
-  
+
+## builgings.py  
 ### Brief Task Description
 
 Tim is looking for a place to build a house. The street he wants to live on has length n, it consists of n identical consecutive sections. Each plot is either empty or house already built on the place.
@@ -36,5 +37,15 @@ cd algorythms-basics-
 ```
 python buildings.py
 ```
-##### NOTE: better use IDE and start task @ the place
+###### NOTE: better use IDE and start task @ the place
   
+##### Example for input:
+```
+6
+0 4 1 10 0 8
+```
+  
+##### Example for output:
+```
+0 1 2 1 0 1
+```
