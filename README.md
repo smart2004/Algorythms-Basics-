@@ -59,6 +59,7 @@ The exercise on the simulator is divided into rounds:
 - each round consists of several games;
 - in different rounds, the number of games may be different;
 - the number of each game in the round is indicated by the counter t.
+  
 For each round, certain values are set on the keys, which remain unchanged during all the games of the round.
 The value of the game counter t cannot exceed the value of the largest number displayed on the keyboard in the current round.
 Two players take part in the exercise on the simulator, they play together on the same keyboard. For each round, the maximum number of keys that one player can press is set (it is denoted by the variable k and does not change during the round).
