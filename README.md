@@ -9,9 +9,9 @@ Help Tim calculate the required distances. For this putrpose you have a street m
 
 ### Input Format
   
-The first line contains value, the length of the street —– n (1 ≤ n ≤ 106). 
+The first line contains value, the length of the street —– n (1 ≤ n ≤ 10**6). 
 The next line contains n non-negative integers — the numbers of houses and designations of empty plots on the map (zeroes). 
-It is guaranteed that there is at least one zero in the sequence. House numbers (positive numbers) are unique and do not exceed 109.
+It is guaranteed that there is at least one zero in the sequence. House numbers (positive numbers) are unique and do not exceed 10**9.
 
 ### Output Format
   
