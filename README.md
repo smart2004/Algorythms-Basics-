@@ -1,4 +1,4 @@
-# algorythms-Basics- by smart200481 <Mikhail Sutormin>
+# algorythms-basics- by smart200481 <Mikhail Sutormin>
 
 ## builgings.py  
 ### Brief Task Description
