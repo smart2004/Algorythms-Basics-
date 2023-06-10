@@ -1,4 +1,3 @@
-# 86806313
 """This code calculates farness from empty plots."""
 from typing import List, Tuple
 
