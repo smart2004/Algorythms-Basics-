@@ -22,7 +22,7 @@ For each segment, print the distance to the nearest zero. Output the numbers on 
 ##### Clone reppository:
 
 ```
-git clone https://github.com/smart2004/Algorythms-Basics-
+git@github.com:smart2004/Algorythms-Basics-.git
 ```
 
 ##### Switch to the folder:
